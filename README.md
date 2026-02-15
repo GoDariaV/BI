@@ -1,4 +1,4 @@
-В папке projects расположены 4 шаблона дашбордов в формате PNG:
+В папке docs расположены 4 шаблона дашбордов в формате PNG:
 
 1. dashboard-company-performance, dashboard-stores-performance, dashboard-suppliers-performance созданы на основе одного набора данных с тем отличием, что:
    - dashboard-company-performance предназначен для оценки общего состояния ритейлера; основные пользователи - топ-менеджера, директора/руководители департаментов;
